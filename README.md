@@ -62,5 +62,8 @@ git clone https://github.com/yourusername/Productivity-Extension.git
 ![Image](https://github.com/user-attachments/assets/6b0ac716-ba19-4445-a6cd-12db312c0e9d)
 
 ### 💬 Dark mode  
+![Image](https://github.com/user-attachments/assets/7e5e22c9-21b8-4196-a1d1-8ed7c2a68875)
+
+### 💬 Blocked website  
 ![Image](https://github.com/user-attachments/assets/ce29debb-29df-4381-8e51-8fba66799196)
 
