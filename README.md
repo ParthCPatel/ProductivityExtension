@@ -53,7 +53,7 @@ A comprehensive **Chrome extension** designed to boost your productivity with:
 git clone https://github.com/yourusername/Productivity-Extension.git
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ###  Overview  
 ![Image](https://github.com/user-attachments/assets/15218eb8-c148-4a9e-a46d-2739e2a3f872)
