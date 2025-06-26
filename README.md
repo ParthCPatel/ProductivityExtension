@@ -58,8 +58,7 @@ git clone https://github.com/yourusername/Productivity-Extension.git
 ### 🔐 Overview  
 ![Image](https://github.com/user-attachments/assets/15218eb8-c148-4a9e-a46d-2739e2a3f872)
 
-### 📝 Signup Page  
-![Signup Page](https://github.com/user-attachments/assets/6d97b935-aedc-422f-9642-a102b233b39e)
-
+### 📝 Dark mode  
+![Image](https://github.com/user-attachments/assets/6b0ac716-ba19-4445-a6cd-12db312c0e9d)
 ### 💬 Chat Between Users  
 ![Chat Page](https://github.com/user-attachments/assets/49dafc9e-bd18-43fb-a8af-7a7fcd458a5a)
