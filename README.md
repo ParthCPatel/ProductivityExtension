@@ -1,124 +1,65 @@
 # Productivity Manager Extension
 
-_COMPANY_: CODTECH IT SOLUTIONS
+**COMPANY:** CodTech IT Solutions  
+**NAME:** Parth Patel  
+**INTERN ID:** CT06DM179  
+**DOMAIN:** MERN Stack Web Development  
+**DURATION:** 6 Weeks  
+**MENTOR:** Neela Santosh
 
-_NAME_: SHIV PATEL
+---
 
-_INTERN ID_: CT06DL588
+## 📌 Overview
 
-_DOMAIN_: MERN STACK WEB DEVELOPMENT
+A comprehensive **Chrome extension** designed to boost your productivity with:
+- ✅ Task management  
+- ⏱️ Pomodoro timer  
+- 🚫 Distraction blocking  
+- 🌙 Dark mode support
 
-_DURATION_: 6 WEEKS
+---
 
-_MENTOR_: NEELA SANTOSH
+## 🚀 Features
 
-A comprehensive Chrome extension designed to boost your productivity with task management, Pomodoro timer, and distraction blocking features.
+### ✅ Task Management
+- **Add Tasks**: Quickly add new tasks with a simple input field  
+- **Mark Complete**: Click on tasks to mark them as done  
+- **Delete Tasks**: Remove tasks you no longer need  
+- **Persistent Storage**: Tasks are saved locally and persist across sessions  
 
-## Features
+### ⏱️ Pomodoro Timer
+- **25-Minute Focus Sessions**: Classic Pomodoro technique  
+- **Timer Controls**: Start/Stop buttons  
+- **Desktop Notifications**: Alerts when sessions end  
+- **Background Alarms**: Works even when popup is closed  
 
-### Task Management
+### 🚫 Website Blocker
+- **Distraction Blocking**: Blocks access to distracting websites  
+- **Pre-configured Sites**: YouTube, Facebook, Instagram  
+- **Motivational Overlay**: Full-screen overlay with motivational message  
 
-- **Add Tasks**: Quickly add new tasks with a simple input field
-- **Mark Complete**: Click on tasks to mark them as done
-- **Delete Tasks**: Remove tasks you no longer need
-- **Persistent Storage**: Tasks are saved locally and persist across browser sessions
+### 🌙 Dark Mode
+- **Theme Toggle**: Light/Dark switch  
+- **Persistent Preference**: Remembers your theme choice  
+- **Modern Design**: Clean UI with smooth transitions  
 
-### Pomodoro Timer
+---
 
-- **25-minute Focus Sessions**: Classic Pomodoro technique implementation
-- **Timer Controls**: Start and stop the timer as needed
-- **Desktop Notifications**: Get notified when your focus session is complete
-- **Background Alarms**: Timer continues running even when popup is closed
+## 🧩 Installation
 
-### Website Blocker
+### 🛠️ Download the Extension
 
-- **Distraction Blocking**: Automatically blocks access to distracting websites
-- **Pre-configured Sites**: Blocks YouTube, Facebook, and Instagram by default
-- **Full-screen Overlay**: Displays a motivational message when blocked sites are accessed
+```bash
+git clone https://github.com/yourusername/Productivity-Extension.git
+```
 
-### Dark Mode
+## 📸 Screenshots
 
-- **Theme Toggle**: Switch between light and dark themes
-- **Persistent Preference**: Your theme choice is saved and remembered
-- **Modern Design**: Clean, professional interface with smooth transitions
+### 🔐 Overview  
+![Image](https://github.com/user-attachments/assets/15218eb8-c148-4a9e-a46d-2739e2a3f872)
 
-## Installation
+### 📝 Signup Page  
+![Signup Page](https://github.com/user-attachments/assets/6d97b935-aedc-422f-9642-a102b233b39e)
 
-1. **Download the Extension**
-
-   ```bash
-   git clone https://github.com/yourusername/Productivity-Extension.git
-   ```
-
-2. **Load in Chrome**
-   - Open Chrome and navigate to `chrome://extensions/`
-   - Enable "Developer mode" in the top-right corner
-   - Click "Load unpacked" and select the extension folder
-   - The extension icon will appear in your browser toolbar
-
-## Technical Details
-
-### Core Technologies
-
-- **Manifest V3**: Latest Chrome extension standard
-- **Chrome Storage API**: For persistent data storage
-- **Chrome Alarms API**: For background timer functionality
-- **Chrome Notifications API**: For desktop notifications
-- **Content Scripts**: For website blocking functionality
-
-### Key Files
-
-- **[`manifest.json`](manifest.json)**: Defines extension permissions and configuration
-- **[`popup.html`](popup.html)**: Main user interface structure
-- **[`popup.js`](popup.js)**: Handles task management, timer, and theme functionality
-- **[`background.js`](background.js)**: Manages alarms and notifications
-- **[`content.js`](content.js)**: Implements website blocking overlay
-- **[`styles.css`](styles.css)**: Modern styling with CSS variables and dark mode support
-
-## Usage
-
-### Managing Tasks
-
-1. Click the extension icon to open the popup
-2. Type a task in the input field and click "Add" or press Enter
-3. Click on any task to mark it as complete
-4. Click the "✕" button to delete a task
-
-### Using the Pomodoro Timer
-
-1. Click "Start" to begin a 25-minute focus session
-2. The timer will count down and show desktop notification when complete
-3. Click "Stop" to cancel the current session
-
-### Enabling Dark Mode
-
-1. Toggle the "Dark Mode" switch at the bottom of the popup
-2. Your preference will be saved automatically
-
-## Permissions
-
-The extension requires the following permissions:
-
-- **Storage**: To save tasks and preferences
-- **Notifications**: To alert you when Pomodoro sessions complete
-- **Alarms**: To run the timer in the background
-- **Host Permissions**: To block distracting websites
-
-
-## Output
-![Image](https://github.com/user-attachments/assets/a3e0cc39-3f8a-426d-97df-42c020df78e7)
-_Extension Overview_
-
-![Image](https://github.com/user-attachments/assets/77e6b83a-23fd-440d-9dcb-e47b46db24b0)
-_Extension in Light Mode_
-
-![Image](https://github.com/user-attachments/assets/45772b0e-937f-430b-8b78-ef70d29bb835)
-_Extension in Dark Mode_
-
-![Image](https://github.com/user-attachments/assets/a9961ad2-d335-4d78-bc99-bef02aac24c0)
-_Blocked Websites_
-
-![Image](https://github.com/user-attachments/assets/15f6168b-3807-424c-87b8-99a584ff16f5)
-_Notification after completing pomodoro timer_
-
-**Stay focused, stay productive!**
+### 💬 Chat Between Users  
+![Chat Page](https://github.com/user-attachments/assets/49dafc9e-bd18-43fb-a8af-7a7fcd458a5a)
